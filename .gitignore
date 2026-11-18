@@ -1,0 +1,3 @@
+# APKs are uploaded as release assets, never committed.
+apks/
+*.apk
